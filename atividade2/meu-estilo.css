@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    height: 200vh;
+}
+header{
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 50px;
+    width: 100%;
+    background-color: tomato;
+}
+#principal{
+margin-top: 50px;
+}
+#imagens{
+    position: fixed;
+    right:0;
+}
+img{
+    width: 450px;
+    height: 340px;
+    float: right;
+}
+
+footer{
+    height: 50px;
+    left: 0;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background-color: tomato;
+}
